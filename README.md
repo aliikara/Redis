@@ -1,10 +1,8 @@
 # 🔥 Redis Project
 
 Bu proje, **Redis** ile çalışan bir **.NET Core** uygulamasıdır. Redis kullanarak **önbellekleme (caching), mesaj kuyruğu (queueing)** ve **gerçek zamanlı veri yönetimi** sağlanır.
-
-![Redis Logo](https://upload.wikimedia.org/wikipedia/commons/6/6b/Redis_Logo.svg)
-
 ---
+
 
 ## 🚀 Özellikler
 
