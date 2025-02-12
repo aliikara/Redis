@@ -14,21 +14,6 @@ Bu proje, **Redis** ile çalışan bir **.NET Core** uygulamasıdır. Redis kull
 
 ---
 
-## 📂 Proje Mimarisi
-
-```
-RedisProject/
-│-- Controllers/
-│   ├── CacheController.cs
-│-- Services/
-│   ├── RedisService.cs
-│-- Program.cs
-│-- Startup.cs
-│-- README.md
-```
-
----
-
 ## 🛠 Kurulum
 
 Projeyi klonladıktan sonra aşağıdaki adımları takip edin:
@@ -199,8 +184,8 @@ docker run --name redis-server -d -p 6379:6379 redis
 ---
 
 ## 📞 İletişim
-🚀 **Geliştirici:** [Ali](https://github.com/aliikara)  
-📧 **E-posta:** [seninemail@example.com](mailto:alii.kara@icloud.com)  
+🚀 **Geliştirici:** (https://github.com/aliikara)  
+📧 **E-posta:** (mailto:alii.kara@icloud.com)  
 🌍 **Projeyi İncele:** [GitHub Repo](https://github.com/aliikara/Redis)
 
 🛠 **Katkıda bulunmak isterseniz,** pull request gönderebilirsiniz! ✨
